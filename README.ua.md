@@ -37,7 +37,7 @@
 
 Нехай структура папок і файлів проекту в папці `src` виглядає наступним чином:
 
-![Project preview](assets/goit-js-09.jpg)
+![Project preview](assets/goit-09.png)
 
 ### Приклад підключення HTML-файлів до `index.html`
 

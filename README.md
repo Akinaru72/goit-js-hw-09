@@ -37,7 +37,7 @@ complete the tasks of this homework.
 
 The folder and file structure inside the `src` directory should look as follows:
 
-![Project preview](assets/goit-js-09.jpg)
+![Project preview](assets/goit-09.png)
 
 ### Example of linking HTML files to `index.html`
 
